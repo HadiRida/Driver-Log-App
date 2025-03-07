@@ -1,4 +1,4 @@
-#### Driver Logs - Full-Stack Application
+## Driver Logs - Full-Stack Application
 
 ### Key Features:
 - **Trip Logs**: Users can add and view logs for each trip, including stop location, driving hours, and rest hours.
